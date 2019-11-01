@@ -1,8 +1,8 @@
-package com.github.bkhezry.weather.service;
+package com.github.qgiguiere.weather.service;
 
-import com.github.bkhezry.weather.model.currentweather.CurrentWeatherResponse;
-import com.github.bkhezry.weather.model.daysweather.MultipleDaysWeatherResponse;
-import com.github.bkhezry.weather.model.fivedayweather.FiveDayResponse;
+import com.github.qgiguiere.weather.model.currentweather.CurrentWeatherResponse;
+import com.github.qgiguiere.weather.model.daysweather.MultipleDaysWeatherResponse;
+import com.github.qgiguiere.weather.model.fivedayweather.FiveDayResponse;
 
 import io.reactivex.Single;
 import retrofit2.http.GET;

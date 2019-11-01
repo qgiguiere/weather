@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.model.daysweather;
+package com.github.qgiguiere.weather.model.daysweather;
 
 import com.google.gson.annotations.SerializedName;
 

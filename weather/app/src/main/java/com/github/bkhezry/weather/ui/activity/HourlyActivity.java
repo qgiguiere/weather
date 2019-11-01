@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.ui.activity;
+package com.github.qgiguiere.weather.ui.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,14 +14,14 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.model.db.FiveDayWeather;
-import com.github.bkhezry.weather.model.db.ItemHourlyDB;
-import com.github.bkhezry.weather.utils.AppUtil;
-import com.github.bkhezry.weather.utils.Constants;
-import com.github.bkhezry.weather.utils.DbUtil;
-import com.github.bkhezry.weather.utils.ElasticDragDismissFrameLayout;
-import com.github.bkhezry.weather.utils.MyApplication;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.model.db.FiveDayWeather;
+import com.github.qgiguiere.weather.model.db.ItemHourlyDB;
+import com.github.qgiguiere.weather.utils.AppUtil;
+import com.github.qgiguiere.weather.utils.Constants;
+import com.github.qgiguiere.weather.utils.DbUtil;
+import com.github.qgiguiere.weather.utils.ElasticDragDismissFrameLayout;
+import com.github.qgiguiere.weather.utils.MyApplication;
 import com.github.mikephil.charting.charts.LineChart;
 import com.github.mikephil.charting.data.Entry;
 import com.github.mikephil.charting.data.LineData;

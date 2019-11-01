@@ -1,10 +1,10 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
-import com.github.bkhezry.weather.model.db.CurrentWeather;
-import com.github.bkhezry.weather.model.db.FiveDayWeather;
-import com.github.bkhezry.weather.model.db.ItemHourlyDB;
-import com.github.bkhezry.weather.model.db.ItemHourlyDB_;
-import com.github.bkhezry.weather.model.db.MultipleDaysWeather;
+import com.github.qgiguiere.weather.model.db.CurrentWeather;
+import com.github.qgiguiere.weather.model.db.FiveDayWeather;
+import com.github.qgiguiere.weather.model.db.ItemHourlyDB;
+import com.github.qgiguiere.weather.model.db.ItemHourlyDB_;
+import com.github.qgiguiere.weather.model.db.MultipleDaysWeather;
 
 import io.objectbox.Box;
 import io.objectbox.query.Query;

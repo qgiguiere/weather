@@ -1,6 +1,6 @@
-package com.github.bkhezry.weather.model.daysweather;
+package com.github.qgiguiere.weather.model.daysweather;
 
-import com.github.bkhezry.weather.model.common.Coord;
+import com.github.qgiguiere.weather.model.common.Coord;
 import com.google.gson.annotations.SerializedName;
 
 

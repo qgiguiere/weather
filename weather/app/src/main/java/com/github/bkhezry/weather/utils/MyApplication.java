@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
 import android.content.Context;
 import android.content.res.Configuration;
@@ -6,9 +6,9 @@ import android.content.res.Configuration;
 import androidx.appcompat.app.AppCompatDelegate;
 import androidx.multidex.MultiDexApplication;
 
-import com.github.bkhezry.weather.BuildConfig;
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.model.db.MyObjectBox;
+import com.github.qgiguiere.weather.BuildConfig;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.model.db.MyObjectBox;
 
 import io.github.inflationx.calligraphy3.CalligraphyConfig;
 import io.github.inflationx.calligraphy3.CalligraphyInterceptor;

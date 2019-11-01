@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather;
+package com.github.qgiguiere.weather;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.github.bkhezry.weather", appContext.getPackageName());
+        assertEquals("com.github.qgiguiere.weather", appContext.getPackageName());
     }
 }

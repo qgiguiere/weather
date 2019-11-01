@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.model.db;
+package com.github.qgiguiere.weather.model.db;
 
 import android.content.Context;
 import android.view.View;
@@ -7,10 +7,10 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.widget.AppCompatImageView;
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.utils.AppUtil;
-import com.github.bkhezry.weather.utils.Constants;
-import com.github.bkhezry.weather.utils.DateConverter;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.utils.AppUtil;
+import com.github.qgiguiere.weather.utils.Constants;
+import com.github.qgiguiere.weather.utils.DateConverter;
 import com.mikepenz.fastadapter.FastAdapter;
 import com.mikepenz.fastadapter.items.AbstractItem;
 

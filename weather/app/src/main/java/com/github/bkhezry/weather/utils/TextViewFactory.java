@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
 import android.content.Context;
 import android.graphics.Typeface;

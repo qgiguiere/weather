@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
 
 import android.app.Activity;
@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.github.bkhezry.weather.R;
+import com.github.qgiguiere.weather.R;
 
 import java.util.ArrayList;
 import java.util.List;

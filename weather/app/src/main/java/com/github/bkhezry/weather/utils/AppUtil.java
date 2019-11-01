@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
 import android.annotation.SuppressLint;
 import android.app.Application;
@@ -39,8 +39,8 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 
 import com.bumptech.glide.Glide;
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.listener.OnSetApiKeyEventListener;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.listener.OnSetApiKeyEventListener;
 import com.github.pwittchen.prefser.library.rx2.Prefser;
 
 import java.lang.reflect.InvocationTargetException;

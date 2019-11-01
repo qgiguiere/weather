@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.utils;
+package com.github.qgiguiere.weather.utils;
 
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;

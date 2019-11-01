@@ -1,8 +1,8 @@
-package com.github.bkhezry.weather.model.fivedayweather;
+package com.github.qgiguiere.weather.model.fivedayweather;
 
-import com.github.bkhezry.weather.model.common.Clouds;
-import com.github.bkhezry.weather.model.common.WeatherItem;
-import com.github.bkhezry.weather.model.common.Wind;
+import com.github.qgiguiere.weather.model.common.Clouds;
+import com.github.qgiguiere.weather.model.common.WeatherItem;
+import com.github.qgiguiere.weather.model.common.Wind;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;

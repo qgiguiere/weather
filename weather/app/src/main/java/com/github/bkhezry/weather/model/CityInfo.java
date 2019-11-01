@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.model;
+package com.github.qgiguiere.weather.model;
 
 public class CityInfo {
   private int id;

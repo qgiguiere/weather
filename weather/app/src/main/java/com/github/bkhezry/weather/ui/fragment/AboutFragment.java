@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.ui.fragment;
+package com.github.qgiguiere.weather.ui.fragment;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -22,13 +22,13 @@ import androidx.appcompat.widget.SwitchCompat;
 import androidx.core.widget.NestedScrollView;
 import androidx.fragment.app.DialogFragment;
 
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.ui.activity.MainActivity;
-import com.github.bkhezry.weather.utils.AppUtil;
-import com.github.bkhezry.weather.utils.LocaleManager;
-import com.github.bkhezry.weather.utils.MyApplication;
-import com.github.bkhezry.weather.utils.SharedPreferencesUtil;
-import com.github.bkhezry.weather.utils.ViewAnimation;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.ui.activity.MainActivity;
+import com.github.qgiguiere.weather.utils.AppUtil;
+import com.github.qgiguiere.weather.utils.LocaleManager;
+import com.github.qgiguiere.weather.utils.MyApplication;
+import com.github.qgiguiere.weather.utils.SharedPreferencesUtil;
+import com.github.qgiguiere.weather.utils.ViewAnimation;
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton;
 
 import butterknife.BindView;

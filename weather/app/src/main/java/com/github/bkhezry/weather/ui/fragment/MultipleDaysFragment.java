@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.ui.fragment;
+package com.github.qgiguiere.weather.ui.fragment;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -19,17 +19,17 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
-import com.github.bkhezry.weather.R;
-import com.github.bkhezry.weather.model.CityInfo;
-import com.github.bkhezry.weather.model.daysweather.ListItem;
-import com.github.bkhezry.weather.model.daysweather.MultipleDaysWeatherResponse;
-import com.github.bkhezry.weather.model.db.MultipleDaysWeather;
-import com.github.bkhezry.weather.service.ApiService;
-import com.github.bkhezry.weather.utils.ApiClient;
-import com.github.bkhezry.weather.utils.AppUtil;
-import com.github.bkhezry.weather.utils.Constants;
-import com.github.bkhezry.weather.utils.DbUtil;
-import com.github.bkhezry.weather.utils.MyApplication;
+import com.github.qgiguiere.weather.R;
+import com.github.qgiguiere.weather.model.CityInfo;
+import com.github.qgiguiere.weather.model.daysweather.ListItem;
+import com.github.qgiguiere.weather.model.daysweather.MultipleDaysWeatherResponse;
+import com.github.qgiguiere.weather.model.db.MultipleDaysWeather;
+import com.github.qgiguiere.weather.service.ApiService;
+import com.github.qgiguiere.weather.utils.ApiClient;
+import com.github.qgiguiere.weather.utils.AppUtil;
+import com.github.qgiguiere.weather.utils.Constants;
+import com.github.qgiguiere.weather.utils.DbUtil;
+import com.github.qgiguiere.weather.utils.MyApplication;
 import com.github.pwittchen.prefser.library.rx2.Prefser;
 import com.mikepenz.fastadapter.FastAdapter;
 import com.mikepenz.fastadapter.adapters.ItemAdapter;

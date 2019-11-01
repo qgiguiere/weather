@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather;
+package com.github.qgiguiere.weather;
 
 import org.junit.Test;
 

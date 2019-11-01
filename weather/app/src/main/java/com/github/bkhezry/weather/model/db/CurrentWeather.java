@@ -1,4 +1,4 @@
-package com.github.bkhezry.weather.model.db;
+package com.github.qgiguiere.weather.model.db;
 
 import io.objectbox.annotation.Entity;
 import io.objectbox.annotation.Id;
