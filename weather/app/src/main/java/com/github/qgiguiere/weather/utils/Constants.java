@@ -27,30 +27,6 @@ public class Constants {
       "December"
   };
 
-  public static final String[] DAYS_OF_WEEK_PERSIAN = {
-      "یکشنبه",
-      "دوشنبه",
-      "سه‌شنبه",
-      "چهارشنبه",
-      "پنج‌شنبه",
-      "جمعه",
-      "شنبه"
-  };
-  public static final String[] MONTH_NAME_PERSIAN = {
-      "فروردین",
-      "اردیبهشت",
-      "خرداد",
-      "تیر",
-      "مرداد",
-      "شهریور",
-      "مهر",
-      "آبان",
-      "آذر",
-      "دی",
-      "بهمن",
-      "اسفند"
-  };
-
   public static final String[] WEATHER_STATUS = {
       "Thunderstorm",
       "Drizzle",
@@ -63,18 +39,6 @@ public class Constants {
       "Cloud"
   };
 
-  public static final String[] WEATHER_STATUS_PERSIAN = {
-      "رعد و برق",
-      "نمنم باران",
-      "باران",
-      "برف",
-      "جو ناپایدار",
-      "صاف",
-      "کمی ابری",
-      "ابرهای پراکنده",
-      "ابری"
-
-  };
 
 
   public static final String CITY_INFO = "city-info";
